@@ -1,4 +1,4 @@
-package com.huayun.scsso.config;
+package org.fly.scsso.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
